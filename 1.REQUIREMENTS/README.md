@@ -35,8 +35,21 @@ This system is developed using C Programming Language and different variables ha
 ## DETAIL REQUIREMENTS -
 
 ### HIGH LEVEL REQUIREMENTS-
-1.Ask the user if the user is existing user or new user.
-1.Providing the user the available menu
-1.As the user orders,the availability of stock is shown.
-1.Exit from interface
-1.Ask the user to add more order 
+
+1. Ask the user if the user is existing user or new user.
+
+1. Providing the user the available menu.
+
+1. As the user orders,the availability of stock is shown.
+
+1. Exit from interface and view bill and asking the user to add more order
+
+1. Adaptive system.
+
+### LOW LEVEL REQUIREMENTS
+
+1.MODULE 1-Type of user 
+
+2.MODULE 2-Select menu & view bill
+
+3.MODULE 3-Ask the user to add moreor view bill
