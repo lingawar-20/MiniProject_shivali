@@ -30,3 +30,13 @@ This system is developed using C Programming Language and different variables ha
 1. How – 1.The option displays the menu
        
          2.from the given option choose the order
+
+
+## DETAIL REQUIREMENTS -
+
+### HIGH LEVEL REQUIREMENTS-
+1.Ask the user if the user is existing user or new user.
+1.Providing the user the available menu
+1.As the user orders,the availability of stock is shown.
+1.Exit from interface
+1.Ask the user to add more order 
