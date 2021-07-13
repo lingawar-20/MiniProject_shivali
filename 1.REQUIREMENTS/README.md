@@ -21,7 +21,6 @@ This system is developed using C Programming Language and different variables ha
 ## SWOT ANALYSIS
 ![SWOT analysis 3 beans](https://user-images.githubusercontent.com/86190217/124644925-6c72b800-deb0-11eb-86a9-016cdbe875a2.jpg)
 
-
 ## 4W'S & 1H
 
 ## When
@@ -37,9 +36,12 @@ This system is developed using C Programming Language and different variables ha
    People of all age groups can use it
    
 ## How
+
 1.The option displays the menu
-1.From the given option choose the order
-1.Your bill will be generated automatically
+
+2.From the given option choose the order
+
+3.Your bill will be generated automatically
 
 # DETAIL REQUIREMENTS 
 
