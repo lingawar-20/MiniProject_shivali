@@ -44,16 +44,13 @@ This system is developed using C Programming Language and different variables ha
 3.Your bill will be generated automatically
 
 # DETAIL REQUIREMENTS 
-
 ## HIGH LEVEL REQUIREMENTS
-
 ID  |DESCRIPTION                                       |STATUS
 ----|--------------------------------------------------|------
 HR01| Ask the user if the user is existing user or new user|IMPLEMENTED
 HR02| Providing the user the available menu |IMPLEMENTED
 HR03| As the user orders,the availability of stock is shown |IMPLEMENTED
 HR04| Exit from interface and view bill and asking the user to add more order |IMPLEMENTED
-
 ## LOW LEVEL REQUIREMENTS 
 
 ID  | DESCRIPTION                                   |STATUS
