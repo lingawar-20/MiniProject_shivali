@@ -43,7 +43,7 @@ This system is developed using C Programming Language and different variables ha
 
 3.Your bill will be generated automatically
 
-# DETAIL REQUIREMENTS 
+## DETAIL REQUIREMENTS 
 ## HIGH LEVEL REQUIREMENTS
 ID  |DESCRIPTION                                       |STATUS
 ----|--------------------------------------------------|------
