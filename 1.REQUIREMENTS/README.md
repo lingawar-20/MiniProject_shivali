@@ -17,7 +17,6 @@ This project describes the specific aims and objectives of the project, it analy
 Talking about the features of this Simple system, the user can simply order coffee by selecting the available coffee items  ,entering a customer name, quantity. 
 The system does not create an external file to store the user’s data permanently. 
 This system is developed using C Programming Language and different variables have been used for the development of it.
-
 ## SWOT ANALYSIS
 ![SWOT analysis 3 beans](https://user-images.githubusercontent.com/86190217/124644925-6c72b800-deb0-11eb-86a9-016cdbe875a2.jpg)
 
