@@ -1,0 +1,17 @@
+3.IMPLEMENTATION/coffee.c:91:9: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+        scanf("%s",quantity);
+        ^
+3.IMPLEMENTATION/coffee.c:84:10: style: The scope of the variable 'quantity' can be reduced. [variableScope]
+    char quantity[20];
+         ^
+3.IMPLEMENTATION/coffee.c:30:14: style: Local variable 'order' shadows outer variable [shadowVariable]
+        char order[10][20]={"0"};
+             ^
+3.IMPLEMENTATION/coffee.c:21:6: note: Shadowed declaration
+char order[10][20]={""};
+     ^
+3.IMPLEMENTATION/coffee.c:30:14: note: Shadow variable
+        char order[10][20]={"0"};
+             ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
