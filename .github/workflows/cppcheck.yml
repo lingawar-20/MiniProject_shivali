@@ -9,11 +9,11 @@ on:
 jobs:
   cppcheck:
 
-    runs-on: ubuntu-latest
+    runs-on: windows
 
     steps:
     - uses: actions/checkout@v2
     - name: Install cppcheck
       run: sudo apt -y install cppcheck
     - name: Run cppcheck
-      run: cppcheck 3_Implementation
+      run: cppcheck 3.Implementation
