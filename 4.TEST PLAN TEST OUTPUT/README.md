@@ -14,4 +14,3 @@
 |  L_02       |Generating Bill | Total Bill display |Matched | Requirement based   |
 |  L_03    |  Asking for Direct order | Order gets displayed | Matched | Requirement based   |
 |  L_04    |  Asking to Display menu | Menu gets displayed | Matched | Requirement based  |
-
